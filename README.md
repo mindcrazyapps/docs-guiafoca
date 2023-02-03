@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/16518820?s=200&v=4"/>
+
 # docs-guiafoca
 docsify do guiafoca
 
