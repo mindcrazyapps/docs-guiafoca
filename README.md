@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/16518820?s=200&v=4"/>
+<img src="https://avatars.githubusercontent.com/u/16518820?s=200&v=4" width="100px"/>
 
 # docs-guiafoca
 docsify do guiafoca
